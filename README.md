@@ -215,6 +215,11 @@ Frequency
 
 - 3 posts per week
 
+###QR Code Card linking to:
+- Telugu Pooja Videos
+- English Instructions
+- Sankalpam Guide
+- Mantra Audio
 ---
 
 ## Phase 2 – Lead Generation
